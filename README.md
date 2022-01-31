@@ -1,9 +1,5 @@
 ### Olá! Eu sou a Nicole Ferreira 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
-
 <div align="center">
   <a href="https://github.com/lefeani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lefeani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
