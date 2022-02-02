@@ -11,7 +11,7 @@
   <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nick-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align='right' src='https://camo.githubusercontent.com/a0b79366a6a40db964a34c087f8326df74f8c05ab8a82bdec44bca480a62c11c/687474703a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966' width='200"'>
+  <img align='right' src='https://media.giphy.com/media/3oEduFuAcLikbtyRwc/giphy.gif' width='400"'>
 </div>
   
   ##
