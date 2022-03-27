@@ -1,4 +1,4 @@
-### Olá! Eu sou a Nicole Ferreira 👋
+### Olá! Eu sou a Nicole Ferreira 👾
 
 <div align="center">
   <a href="https://github.com/lefeani">
@@ -17,8 +17,6 @@
 </div>
   
   ##
-  
-  Feito com 🤍 por Nicole Ferreira👋🏽 Entre em contato!
   
 <div> 
   <a href="https://www.instagram.com/lefeanii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
