@@ -18,7 +18,7 @@
   
   ##
   
-  Feito com ❤️ por Philippe Corrales 👋🏽 Entre em contato!
+  Feito com 🤍 por Nicole Ferreira👋🏽 Entre em contato!
   
 <div> 
   <a href="https://www.instagram.com/lefeanii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
