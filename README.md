@@ -1,4 +1,4 @@
-### Olá! Eu sou a Nicole Ferreira 👾
+### Olá, Eu sou a Nicole Ferreira!👾
 
 <div align="center">
   <a href="https://github.com/lefeani">
