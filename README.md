@@ -1,7 +1,5 @@
 ### Olá! Eu sou a Nicole Ferreira 👋
 
-📈 **Minhas estatísticas do GitHub:**
-
 <div align="center">
   <a href="https://github.com/lefeani">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lefeani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
