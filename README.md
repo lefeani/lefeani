@@ -15,8 +15,8 @@
   <img align="center" alt="Nick-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align='right' src='https://media.giphy.com/media/3oEduFuAcLikbtyRwc/giphy.gif' width='400"'>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="30" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="30" width="40"/>
+  <img aling="center"alt="Nick-Kotlin" height="30" width="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
+  <img aling="center" alt="Nick-Spring" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
 </div>
   
   ##
