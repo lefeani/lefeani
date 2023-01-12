@@ -7,6 +7,8 @@
 </div>
   
 <div style="display: inline_block"><br>
+  <img alt="center" alt="Nick-Kotlin" height="40" width="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
+  <img alt="center" alt="Nick-Spring" height="40" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
   <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
